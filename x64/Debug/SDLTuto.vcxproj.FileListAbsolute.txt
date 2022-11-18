@@ -1,0 +1,2 @@
+C:\Users\Shurturgal\source\repos\SDLTuto\x64\Debug\SDLTuto.exe
+C:\Users\Shurturgal\source\repos\Projet-4\x64\Debug\Projet4.exe
